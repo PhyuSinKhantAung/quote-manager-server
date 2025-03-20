@@ -22,10 +22,10 @@ $ npm run start:prod
 ```
 
 ## Environment Variables
-env variables are stored in .env file
-you need to create .env file in root directory
-you should have postgres installed on your machine
-please add your database url and jwt secret in .env file
+env variables are stored in .env file.
+You need to create .env file in root directory.
+You should have postgres installed on your machine.
+Please add your database url and jwt secret in .env file
 example:
 ```
 PORT=3000
