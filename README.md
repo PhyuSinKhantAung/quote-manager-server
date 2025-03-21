@@ -5,7 +5,11 @@
 ## Project setup
 
 ```bash
+# install dependencies
 $ npm install
+
+# run databse migration files
+$ npx prisma migrate deploy
 ```
 
 ## Compile and run the project
